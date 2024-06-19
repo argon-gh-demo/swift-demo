@@ -7,7 +7,7 @@ PODS:
   - libsodium (1.0.12)
   - mqttc/MinL (14.0.1):
     - CocoaLumberjack
-  - ZIPFoundation (0.9.19)
+  - ZIPFoundation (0.9.14)
 
 DEPENDENCIES:
   - ABStaticTableViewController (from `https://github.com/ckrey/ABStaticTableViewController.git`)
@@ -15,7 +15,7 @@ DEPENDENCIES:
   - DSJSONSchemaValidation
   - libsodium
   - mqttc/MinL (from `https://github.com/ckrey/mqttc.git`)
-  - ZIPFoundation (~> 0.9.16)
+  - ZIPFoundation (~> 0.9.14)
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
