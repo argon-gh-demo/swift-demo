@@ -10,7 +10,6 @@ target 'OwnTracks' do
   #pod 'libsodium', '~> 1.0'
   pod 'libsodium'
   pod 'DSJSONSchemaValidation'
-  pod 'ZIPFoundation', '~> 0.9.16'
 end
 
 
